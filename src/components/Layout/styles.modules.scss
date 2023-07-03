@@ -1,0 +1,32 @@
+.loyaut-wrapper {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  padding-top: 40px;
+  flex: 1;
+}
+
+.header {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f8ffd4;
+  position: fixed;
+  z-index: 5;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+
+.footer {
+  height: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f8ffd4;
+}

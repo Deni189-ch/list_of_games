@@ -1,0 +1,16 @@
+.App {
+  padding: 30px;
+}
+
+.cardsList {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  gap: 30px;
+}
+
+.addGames {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
